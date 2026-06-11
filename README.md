@@ -78,11 +78,6 @@ Output:
 
 ---
 
-## 🚀 How to Run
-
-```bash
-python spam_detection.py
-
 ## Environment Setup
 
 Python Version:
@@ -93,4 +88,9 @@ pip install pandas
 pip install scikit-learn
 
 Run Command:
+python spam_detection.py
+
+## 🚀 How to Run
+
+```bash
 python spam_detection.py
