@@ -82,3 +82,15 @@ Output:
 
 ```bash
 python spam_detection.py
+
+## Environment Setup
+
+Python Version:
+Python 3.11
+
+Required Packages:
+pip install pandas
+pip install scikit-learn
+
+Run Command:
+python spam_detection.py
